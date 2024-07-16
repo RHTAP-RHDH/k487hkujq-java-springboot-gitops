@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k487hkujq-java-springboot-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/k487hkujq-java-springboot-gitops
